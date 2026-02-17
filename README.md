@@ -5,6 +5,9 @@ A learning log of the core concepts and system fundamentals from Harvard’s CS5
 
 ### This repository is based on Harvard University’s CS50x, taught by Professor David J. Malan.
 
+#### ⚠️ All original course materials belong to Harvard University and the CS50 team. This repository contains my personal study notes and implementations only.
+
+
 
 
 
